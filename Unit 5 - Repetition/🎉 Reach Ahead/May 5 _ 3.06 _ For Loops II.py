@@ -69,3 +69,14 @@ final_total = cost_total + hst_rate
 print(f"\nSubtotal: ${cost_total:.2f}")
 print(f"HST (13%): ${hst:.2f}")
 print(f"Total cost: ${final_total:.2f}")
+
+
+###QUESTION 3###
+total = 0
+
+for i in range(5):
+    mark = float(input(f"Enter your current mark {i + 1}: "))
+    total += mark
+
+average = total / 5
+print("Average of the marks inputted: ", average)
