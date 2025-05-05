@@ -1,51 +1,51 @@
 ###PRACTICE - CODE RUN###
-#sum = 0
+sum = 0
 
-#print("\n")
-#print("This program will add 3 integers.")
+print("\n")
+print("This program will add 3 integers.")
 
-#for i in range (3):
-    #num = int(input("Enter number: "))
-    #sum += num
+for i in range (3):
+    num = int(input("Enter number: "))
+    sum += num
 
-#print("The sum is ", sum)
+print("The sum is ", sum)
 
 
 ###QUESTION 1###
-#total_win = 0
-#total_lose = 0
+total_win = 0
+total_lose = 0
 
-#print("This program...")
-#print("")
+print("This program...")
+print("")
 
-#for i in range (10):
-    #print("Game", i+1, ": ")
+for i in range (10):
+    print("Game", i+1, ": ")
 
     #asks you to input the result of the game, 10 times
-    #r = input("Enter the result of game (W) or (L): ")
-    #print("")
+    r = input("Enter the result of game (W) or (L): ")
+    print("")
 
     #calculating the total wins
-    #if (r == "W"):
-        #total_win = total_win + 1
+    if (r == "W"):
+        total_win = total_win + 1
 
     #calculating the total losses
-    #elif (r == "L"):
-        #total_lose = total_lose + 1
+    elif (r == "L"):
+        total_lose = total_lose + 1
 
-    #else:
+    else:
         #entering an invalid letter other than "W" or "L" will output this response
-        #print("This is an invalid entry")
-        #print("")
+        print("This is an invalid entry")
+        print("")
 
-    #print("The total Wins so far is", total_win)
-    #print("The total Loses so far is", total_lose)
-    #print("")
+    print("The total Wins so far is", total_win)
+    print("The total Loses so far is", total_lose)
+    print("")
 
-#print("You have won", total_win, "games.") #tells you the total amount of games won
-#print("")
-#print("You have lost", total_lose, "games.") #tells you the amount of games lost
-#print("")
+print("You have won", total_win, "games.") #tells you the total amount of games won
+print("")
+print("You have lost", total_lose, "games.") #tells you the amount of games lost
+print("")
 
 
 ###QUESTION 2###
