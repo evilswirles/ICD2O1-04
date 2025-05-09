@@ -1,5 +1,4 @@
 ###TASK 8 - PRO###
-###TASK 8 - PRO###
 #input
 number = int(input("How many numbers do you want to add?: "))
 numbers = []
