@@ -5,4 +5,4 @@ Github Respository to store coding files for ICD2O1-04 course
 
 ## Activity
 
-#add in REPOBEATS insights chart
+![Alt](https://repobeats.axiom.co/api/embed/f3e0bf6ae2da79631b723df56773fed792416b30.svg "Repobeats analytics image")
