@@ -1,4 +1,4 @@
-###PART A - CODING QUESTIONS###
+###PART 1 - CODING QUESTIONS###
 ###QUESTION 1###
 count = 0
 number = 0
