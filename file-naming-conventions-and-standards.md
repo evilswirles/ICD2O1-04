@@ -1,5 +1,5 @@
 company_MM-DD_activity-#_project_version/day.ext
-!!!!!!!_!!-!!_!!!!!!!!!!_!!!!!!!_!!!!!!!!!!!.!!!
+!!!!!!!_!!-!!_!!!!!!!!!!_!!!!!!!_!!!!!!!!!!!.!!!<br>
 !!!!!!!_!!-!!_!!!!!!!!!!_!!!!!!!_!!!!!!!!!!!.\\\   .ext: Dot.Extension of file name
 !!!!!!!_!!-!!_!!!!!!!!!!_!!!!!!!_\\\\\\\\\\\   desc: Version/day
 !!!!!!!_!!-!!_!!!!!!!!!!_\\\\\\\   Project and/or title of assignment
