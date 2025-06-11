@@ -1,2 +1,5 @@
 # macOS system files
 .DS_Store
+
+# Remove File naming conventions and standards from GIT tracking
+/workspace/ICD2O1-04/file-naming-conventions-and-standards.md
